@@ -1,0 +1,9 @@
+using System;
+class hello
+{
+    public static void Main(String []args)
+    {
+        String a = Console.ReadLine();
+        Console.WriteLine(a);
+    }
+}
